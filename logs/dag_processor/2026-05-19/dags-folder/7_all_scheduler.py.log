@@ -64,3 +64,5 @@
 {"timestamp":"2026-05-19T15:45:15.998077Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/7_all_scheduler.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":469}
 {"timestamp":"2026-05-19T15:45:46.315016Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/7_all_scheduler.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":469}
 {"timestamp":"2026-05-19T15:46:16.579273Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/7_all_scheduler.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":469}
+{"timestamp":"2026-05-19T15:46:47.054313Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/7_all_scheduler.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":469}
+{"timestamp":"2026-05-19T15:47:17.369844Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/7_all_scheduler.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":469}
