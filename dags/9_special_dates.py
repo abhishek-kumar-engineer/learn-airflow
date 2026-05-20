@@ -4,8 +4,8 @@ from pendulum import datetime
 
 
 special_dates = EventsTimetable(
-    events=[datetime(year=2026, month=12, day=18, tz="UTC"), datetime(year=2026, month=7, day=7, tz="UTC")])
-
+    event_dates=[datetime(2026,12,18), datetime(2026,7,7)])
+    
 @dag(schedule=special_dates, start_date=datetime(year=2026, month=1, day=1, tz="UTC"), catchup=True)
 def special_dates_dag():
     @task
